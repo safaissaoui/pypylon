@@ -2,6 +2,7 @@ Version ?.?.?
     - Date ????-??-??
     - setup.py: Some python2 relics have been removed and distutils is no
       longer used because distutils is deprecated in python 3.10.
+    - Fixed double enumeration bug on linux
 
 Version 1.7.2
     - Date 2021-03-03
